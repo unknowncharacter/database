@@ -14,8 +14,10 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 12620; -- Enchanted Thorium
 UPDATE `item_template` SET `patch`= 10 WHERE `entry`= 12625; -- Dawnbringer Shoulders | NOTE: Did not exist until late 2006/2007 (NOTE: Plans are not on this list)
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 13075; -- Direwing Legguards | NOTE: Drops off arena bosses and 1.3 world bosses (originally) per Allakhazam
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15196; -- Private's Tabard | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15197; -- Scout's Tabard | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15198; -- Knight's Colors | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15199; -- Stone Guard's Herald | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15200; -- Senior Sergeant's Insignia | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16335; -- Senior Sergeant's Insignia | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16345; -- High Warlord's Blade | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16369; -- Knight-Lieutenant's Silk Boots | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
