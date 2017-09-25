@@ -2,8 +2,8 @@
 
 Here is how to populate the correct data for the new item progression system.
 
-1. First we use the stats downgrade patch from 1.12 to 1.2. This will downgrade items to their ORIGINAL versions.
-https://github.com/elysium-project/database/blob/master/progression/!%201.12%20%E2%86%92%201.2%20Mysteries%20of%20Maraudon.sql#L2423
+1. First we use the stats downgrade patch. This will downgrade items to their ORIGINAL versions.
+https://github.com/elysium-project/database/blob/master/new_progression/original_items.sql
 
 2. Run the migration to add a `patch` column to `item_template`.
 https://github.com/brotalnia/server/blob/progression/sql/migrations/20170816025732_world.sql
