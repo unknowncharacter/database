@@ -133,7 +133,6 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16528; -- Champion's Chain 
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16530; -- Blood Guard's Chain Gauntlets | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16531; -- Blood Guard's Chain Boots | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16532; -- First Sergeant's Mail Wristguards | NOTE: "Added with PvP Honor System"
-
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16533; -- Warlord's Silk Cowl | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16534; -- General's Silk Trousers | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16535; -- Warlord's Silk Raiment | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
