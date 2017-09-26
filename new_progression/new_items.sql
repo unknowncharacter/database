@@ -247,11 +247,27 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18083; -- Jumanza Grips | N
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18103; -- Band of Rumination | NOTE: wowwiki and allakhazam dates
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18104; -- Feralsurge Girdle | NOTE: wowwiki and allakhazam dates
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18168; -- Force Reactive Disk | NOTE: 1.4 Molten Core loot update
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18169; -- Flame Mantle of the Dawn | 1.3 Argent Dawn reputation rewards
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18170; -- Frost Mantle of the Dawn
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18171; -- Arcane Mantle of the Dawn
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18172; -- Nature Mantle of the Dawn
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18173; -- Shadow Mantle of the Dawn
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18182; -- Chromatic Mantle of the Dawn
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18202; -- Eskhandar's Left Claw | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18203; -- Eskhandar's Right Claw | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18204; -- Eskhandar's Pelt | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18205; -- Eskhandar's Collar | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18208; -- Drape of Benediction | 1.3 Azuregos Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18241; -- Black War Steed Bridle | 1.4 PvP R11 Epic mounts
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18242; -- Reins of the Black War Tiger
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18243; -- Black Battlestrider
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18244; -- Black War Ram
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18245; -- Horn of the Black War Wolf
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18246; -- Whistle of the Black War Raptor
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18247; -- Black War Kodo
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18248; -- Red Skeletal Warhorse
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18249; -- Crescent Key | 1.3 DM keys
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18250; -- Gordok Shackle Key
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18251; -- Core Armor Kit | 1.4 MC
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18252; -- Pattern: Core Armor Kit | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18253; -- Major Rejuvenation Potion | 1.4 MC
@@ -264,6 +280,8 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18263; -- Flarecore Wraps |
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18264; -- Plans: Elemental Sharpening Stone | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18265; -- Pattern: Flarecore Wraps | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18267; -- Recipe: Runn Tum Tuber Surprise | 1.3 DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18266; -- Gordok Courtyard Key
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18268; -- Gordok Inner Door Key
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18282; -- Core Marksman Rifle | 1.4 MC
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18283; -- Biznicks 247x128 Accurascope | 1.4 MC
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18289; -- Barbed Thorn Necklace | 1.3 DM
@@ -374,18 +392,35 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18422; -- Head of Onyxia | 
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18423; -- Head of Onyxia | 1.4 MC
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18424; -- Sedge Boots | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18425; -- Kreeg's Mug | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18426; -- Lethtendris's Web
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18427; -- Sergeant's Cloak | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18428; -- Senior Sergeant's Insignia | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18429; -- First Sergeant's Plate Bracers
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18430; -- First Sergeant's Plate Bracers | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18432; -- First Sergeant's Mail Wristguards | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18434; -- First Sergeant's Dragonhide Armguards
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18435; -- First Sergeant's Leather Armguards
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18436; -- First Sergeant's Dragonhide Armguards | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18437; -- First Sergeant's Silk Cuffs | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18440; -- Sergeant's Cape
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18441; -- Sergeant's Cape
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18442; -- Master Sergeant's Insignia
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18443; -- Master Sergeant's Insignia
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18444; -- Master Sergeant's Insignia
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18445; -- Sergeant Major's Plate Wristguards
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18447; -- Sergeant Major's Plate Wristguards
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18448; -- Sergeant Major's Chain Armguards | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18449; -- Sergeant Major's Chain Armguards
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18450; -- Robe of Combustion | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18451; -- Hyena Hide Belt | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18452; -- Sergeant Major's Leather Armsplints | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18453; -- Sergeant Major's Leather Armsplints
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18454; -- Sergeant Major's Dragonhide Armsplints | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18455; -- Sergeant Major's Dragonhide Armsplints
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18456; -- Sergeant Major's Silk Cuffs
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18457; -- Sergeant Major's Silk Cuffs
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18460; -- Unsophisticated Hand Cannon | DM
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18461; -- Sergeant's Cloak | 1.4 PvP
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18462; -- Jagged Bone Fist | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18463; -- Ogre Pocket Knife | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18464; -- Gordok Nose Ring | NOTE: Dire Maul Loot
@@ -450,6 +485,7 @@ UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18526; -- Crown of the Ogre
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18527; -- Harmonious Gauntlets | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18528; -- Cyclone Spaulders | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18529; -- Elemental Plate Girdle | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18530; -- Ogre Forged Hauberk | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18531; -- Unyielding Maul | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18532; -- Mindsurge Robe | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18533; -- Gordok Bracers of Power | DM
@@ -467,6 +503,7 @@ UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18544; -- Doomhide Gauntlet
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18545; -- Leggings of Arcane Supremacy | NOTE: Original Azuregos loot (Allakhazam dates)
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18546; -- Infernal Headcage | 1.3 Kazzak Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18547; -- Unmelting Ice Girdle | 1.3 Azuregos Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18562; -- Elementium Ore | 1.6 BWL
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18563; -- Bindings of the Windseeker | NOTE: 1.4 Raid loot table update (Allakhazam dates, not patch 1.6 like crappy wowwiki says)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18564; -- Bindings of the Windseeker | NOTE: 1.4 Raid loot table update (Allakhazam dates, not patch 1.6 like crappy wowwiki says)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18592; -- Plans: Sulfuron Hammer | NOTE: 1.4 Raid loot table update
@@ -485,7 +522,10 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18652; -- Schematic: Gyrofr
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18655; -- Schematic: Major Recombobulator | NOTE: See 1.4 retail patch notes
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18657; -- Schematic: Hyper-Radiant Flame Reflector | NOTE: See 1.4 retail patch notes
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18658; -- Schematic: Ultra-Flash Shadow Reflector | NOTE: See 1.4 retail patch notes
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18661; -- Schematic: World Enlarger | 1.4 Schematics
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18663; -- J'eevee's Jar | 1.4 Warlock Epic Mount quest line
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18665; -- The Eye of Shadow | NOTE: 1.4 Raid loot table update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18670; -- Xorothian Glyphs | 1.4 Warlock Epic Mount
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18671; -- Baron Charr's Sceptre | NOTE: Patch 1.4 elemental invasions (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18672; -- Elemental Ember | NOTE: Patch 1.4 elemental invasions (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18673; -- Avalanchion's Stony Hide | NOTE: Patch 1.4 elemental invasions (see retail patch notes)
@@ -498,7 +538,9 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18680; -- Ancient Bone Bow 
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18681; -- Burial Shawl | NOTE: 1.4 Dungeon Loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18682; -- Ghoul Skin Leggings | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18683; -- Hammer of the Vesper | NOTE: 1.4 Dungeon Loot table update (see retail patch notes)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18684; -- Dimly Opalescent Ring | 1.4 Dungeon Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18686; -- Bone Golem Shoulders | NOTE: 1.4 Dungeon Loot table update (see retail patch notes)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18688; -- Imp in a Jar | 1.4 Warlock Epic Mount
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18689; -- Phantasmal Cloak | NOTE: 1.4 Dungeon Loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18690; -- Wraithplate Leggings | NOTE: 1.4 Dungeon Loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18691; -- Dark Advisor's Pendant | NOTE: 1.4 Dungeon Loot table update (see retail patch notes)
@@ -548,6 +590,10 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18742; -- Stratholme Militi
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18743; -- Gracious Cape | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18744; -- Plaguebat Fur Gloves | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18745; -- Sacred Cloth Leggings | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18746; -- Divination Scryer | 1.4 Paladin Epic Mount quest line
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18749; -- Charger's Lost Soul | 1.4 Paladin Epic Mount
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18752; -- Exorcism Censer | 1.4 Paladin Epic Mount
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18753; -- Arcanite Barding | 1.4 Paladin Epic Mount
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18754; -- Fel Hardened Bracers | NOTE: 1.4 Warlock mount quest summon
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18755; -- Xorothian Firestick | NOTE: 1.4 Warlock mount quest summon
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18756; -- Dreadguard's Protector | NOTE: 1.4 Warlock mount quest summon
@@ -562,6 +608,7 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18767; -- Reins of the Swif
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18772; -- Swift Green Mechanostrider | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18773; -- Swift White Mechanostrider | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18774; -- Swift Yellow Mechanostrider | NOTE: 1.4 Mount model update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18775; -- Manna-Enriched Horse Feed | 1.4 Paladin Epic Mount
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18776; -- Swift Palomino | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18777; -- Swift Brown Steed | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18778; -- Swift White Steed | NOTE: 1.4 Mount model update
@@ -572,12 +619,14 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18788; -- Swift Blue Raptor
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18789; -- Swift Olive Raptor | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18790; -- Swift Orange Raptor | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18791; -- Purple Skeletal Warhorse | NOTE: 1.4 Mount model update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18792; -- Blessed Arcanite Barding | 1.4 Paladin Epic Mount
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18793; -- Great White Kodo | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18794; -- Great Brown Kodo | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18795; -- Great Gray Kodo | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18796; -- Horn of the Swift Brown Wolf | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18797; -- Horn of the Swift Timber Wolf | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18798; -- Horn of the Swift Gray Wolf | NOTE: 1.4 Mount model update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18799; -- Charger's Redeemed Soul | 1.4 Paladin Epic Mount
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18902; -- Reins of the Swift Stormsaber | NOTE: 1.4 Mount model update
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19029; -- Horn of the Frostwolf Howler | NOTE: AV Rep reward
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18803; -- Finkle's Lava Dredger | NOTE: 1.4 Raid loot table update
@@ -613,6 +662,8 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18835; -- High Warlord's Re
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18836; -- Grand Marshal's Repeater | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18837; -- High Warlord's Crossbow | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18838; -- Grand Marshal's Dirk | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18839; -- Combat Healing Potion | 1.4 Honor System
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18841; -- Combat Mana Potion
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18840; -- High Warlord's Razor | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18842; -- Staff of Dominance | NOTE: 1.4 Raid loot table update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18843; -- Grand Marshal's Right Hand Blade | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
@@ -688,6 +739,9 @@ UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19056; -- Argent Boots | NO
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19057; -- Gloves of the Dawn | NOTE: Argent dawn patterns added (see 1.6 retail patch notes)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19058; -- Golden Mantle of the Dawn | NOTE: Argent dawn patterns added (see 1.6 retail patch notes)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19059; -- Argent Shoulders | NOTE: Argent dawn patterns added (see 1.6 retail patch notes)
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19066; -- Warsong Gulch Runecloth Bandage | 1.6 Warsong reputation rewards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19067; -- Warsong Gulch Mageweave Bandage
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19068; -- Warsong Gulch Silk Bandage
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19083; -- Frostwolf Legionnaire's Cloak | NOTE: AV Rep Rewards
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19084; -- Stormpike Soldier's Cloak | NOTE: AV Rep Rewards
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19085; -- Frostwolf Advisor's Cloak | NOTE: AV Rep Rewards
@@ -1133,6 +1187,15 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19806; -- Dezian Queenfish
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19807; -- Speckled Tastyfish
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19808; -- Rockhide Strongfish | NOTE: Fishing contest event
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19812; -- Rune of the Dawn | NOTE: New AD trinket reward, 1.7 retail patch notes
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19813; -- Punctured Voodoo Doll | ZG dolls
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19814; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19815; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19816; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19817; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19818; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19819; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19820; -- Punctured Voodoo Doll
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19821; -- Punctured Voodoo Doll
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19822; -- Zandalar Vindicator's Breastplate | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19823; -- Zandalar Vindicator's Belt | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19824; -- Zandalar Vindicator's Armguards | NOTE: ZG Loot
@@ -1731,11 +1794,11 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20930; -- Vek'lor's Diadem
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20931; -- Skin of the Great Sandworm
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20932; -- Qiraji Bindings of Dominance
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20933; -- Husk of the Old God
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21099; -- Recipe: Smoked Sagefish | 1.9 food recipe
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21039; -- Narain's Turban | NOTE: AQ Gates Questline
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21040; -- Narain's Robe | NOTE: AQ Gates Questline
-UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21023; -- Dirge's Kickin' Chimaerok Chops | 1.9 food recipe
-UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21024; -- Chimaerok Tenderloin
-UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21025; -- Recipe: Dirge's Kickin' Chimaerok Chops
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21025; -- Recipe: Dirge's Kickin' Chimaerok Chops | 1.9 food recipe
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21114; -- Rumsey Rum Dark | 1.9 pools
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21115; -- Defiler's Talisman | NOTE: AB rep rewards (See 1.9 patch notes)
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21116; -- Defiler's Talisman | NOTE: AB rep rewards (See 1.9 patch notes)
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21117; -- Talisman of Arathor | NOTE: AB rep rewards (See 1.9 patch notes)
@@ -1745,8 +1808,15 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21120; -- Defiler's Talisma
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21126; -- Death's Sting | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21128; -- Staff of the Qiraji Prophets | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21134; -- Dark Edge of Insanity | NOTE: AQ40 Loot
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21136; -- Arcanite Buoy | 1.9 AQ Gate opening
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21137; -- Blue Scepter Shard
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21138; -- Red Scepter Shard
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21139; -- Green Scepter Shard
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21151; -- Rumsey Rum Black Label | 1.9
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21154; -- Festival Dress | NOTE: Allakhazam dates for Festival of Elune
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21157; -- Festive Green Dress | NOTE: Allakhazam dates for Festival of Elune
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21175; -- The Scepter of the Shifting Sands | 1.9 AQ Gate opening
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21176; -- Black Qiraji Resonating Crystal
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21178; -- Gloves of Earthen Power | NOTE: Silithus badger quest
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21179; -- Band of Earthen Wrath | NOTE: Silithus badger quest
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21180; -- Earthstrike | NOTE: Silithus badger quest
@@ -1775,6 +1845,15 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21207; -- Signet Ring of th
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21208; -- Signet Ring of the Bronze Dragonflight | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21209; -- Signet Ring of the Bronze Dragonflight | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21210; -- Signet Ring of the Bronze Dragonflight | NOTE: AQ40 Loot
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21214; -- Tome of Frostbolt XI | 1.9 AQ20 Class Book
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21220; -- Head of Ossirian the Unscarred | 1.9 AQ
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21221; -- Eye of C'Thun
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21218; -- Blue Qiraji Resonating Crystal
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21219; -- Recipe: Sagefish Delight | 1.9 food
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21229; -- Qiraji Lord's Insignia
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21230; -- Ancient Qiraji Artifact
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21232; -- Imperial Qiraji Armaments
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21237; -- Imperial Qiraji Regalia
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21242; -- Blessed Qiraji War Axe | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21244; -- Blessed Qiraji Pugio | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21268; -- Blessed Qiraji War Hammer | NOTE: AQ40 Loot
@@ -1783,6 +1862,32 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21272; -- Blessed Qiraji Mu
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21273; -- Blessed Qiraji Acolyte Staff | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21275; -- Blessed Qiraji Augur Staff | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21278; -- Stormshroud Gloves | NOTE: Patch notes: There is now a fourth item in the Stormshroud Armor set: Stormshroud Gloves.
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21279; -- Tome of Fireball XII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21280; -- Tome of Arcane Missiles VIII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21281; -- Grimoire of Shadow Bolt X
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21282; -- Grimoire of Immolate VIII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21283; -- Grimoire of Corruption VII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21284; -- Codex of Greater Heal V
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21285; -- Codex of Renew X
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21287; -- Codex of Prayer of Healing V
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21288; -- Libram: Blessing of Wisdom VI
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21289; -- Libram: Blessing of Might VII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21290; -- Libram: Holy Light IX
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21291; -- Tablet of Healing Wave X
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21292; -- Tablet of Strength of Earth Totem V
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21293; -- Tablet of Grace of Air Totem III
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21294; -- Book of Healing Touch XI
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21295; -- Book of Starfire VII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21296; -- Book of Rejuvenation XI
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21297; -- Manual of Heroic Strike IX
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21298; -- Manual of Battle Shout VII
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21299; -- Manual of Revenge VI
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21300; -- Handbook of Backstab IX
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21302; -- Handbook of Deadly Poison V
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21303; -- Handbook of Feint V
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21304; -- Guide: Multi-Shot V
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21306; -- Guide: Serpent Sting IX
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21307; -- Guide: Aspect of the Hawk VII
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21311; -- Earth Warder's Vest | NOTE: Timbermaw Hold quest revamp
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21312; -- Belt of the Den Watcher | NOTE: Timbermaw Hold quest revamp
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21316; -- Leggings of the Ursa | NOTE: Timbermaw Hold quest revamp
@@ -1790,7 +1895,10 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21317; -- Helm of the Pathf
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21318; -- Earth Warder's Gloves | NOTE: Timbermaw Hold quest revamp
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21319; -- Gloves of the Pathfinder | NOTE: Timbermaw Hold quest revamp
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21320; -- Vest of the Den Watcher | NOTE: Timbermaw Hold quest revamp
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21321; -- Red Qiraji Resonating Crystal
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21322; -- Ursa's Embrace | NOTE: Timbermaw Hold quest revamp
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21323; -- Green Qiraji Resonating Crystal
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21324; -- Yellow Qiraji Resonating Crystal
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21326; -- Defender of the Timbermaw | NOTE: Timbermaw Hold quest revamp
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21329; -- Conqueror's Crown | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21330; -- Conqueror's Spaulders | NOTE: AQ40 Loot
@@ -1827,11 +1935,14 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21366; -- Striker's Diadem 
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21367; -- Striker's Pauldrons | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21368; -- Striker's Leggings | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21370; -- Striker's Hauberk | NOTE: AQ40 Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 21371; -- Pattern: Core Felcloth Bag N.B. Shard Bags were added with 1.9, but we make them available earlier. This bag requires ZG mats
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21372; -- Stormcaller's Diadem | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21373; -- Stormcaller's Footguards | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21374; -- Stormcaller's Hauberk | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21375; -- Stormcaller's Leggings | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21376; -- Stormcaller's Pauldrons | NOTE: AQ40 Loot
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21377; -- Deadwood Headdress Feather | 1.9 Timbermaw Hold revamp
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21383; -- Winterfall Spirit Beads | 1.9 Timbermaw Hold revamp
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21387; -- Avenger's Crown | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21388; -- Avenger's Greaves | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21389; -- Avenger's Breastplate | NOTE: AQ40 Loot
@@ -1938,7 +2049,8 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21541; -- Festive Black Pan
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21542; -- Festival Suit | NOTE: Allakhazam dates for Festival of Elune
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21543; -- Festive Teal Pant Suit | NOTE: Allakhazam dates for Festival of Elune
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21544; -- Festive Blue Pant Suit | NOTE: Allakhazam dates for Festival of Elune
-UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21547; -- Recipe: Elixir of Greater Firepower | NOTE: Allakhazam comment dates
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21546; -- Elixir of Greater Firepower | 1.10
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21547; -- Recipe: Elixir of Greater Firepower | 1.10 NOTE: Allakhazam comment dates
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21548; -- Pattern: Stormshroud Gloves | NOTE: Patch notes: There is now a fourth item in the Stormshroud Armor set: Stormshroud Gloves.
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21563; -- Don Rodrigo's Band | NOTE: AV Rewards added (see 1.9 patch notes)
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21565; -- Rune of Perfection | NOTE: WSG Rewards added (see 1.9 patch notes)
@@ -2042,6 +2154,8 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21713; -- Elune's Candle | 
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21715; -- Sand Polished Hammer | NOTE: AQ20 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21722; -- Pattern: Festival Dress | NOTE: Allakhazam dates for Festival of Elune
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21723; -- Pattern: Festive Red Pant Suit | NOTE: Allakhazam dates for Festival of Elune
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21761; -- Scarab Coffer Key | 1.9 AQ coffer keys
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21762; -- Greater Scarab Coffer Key
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21800; -- Silithid Husked Launcher | NOTE: AQ20 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21801; -- Antenna of Invigoration | NOTE: AQ20 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21802; -- The Lost Kris of Zedd | NOTE: AQ20 Loot
@@ -2060,6 +2174,21 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21856; -- Neretzek, The Blo
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21888; -- Gloves of the Immortal | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21889; -- Gloves of the Redeemed Prophecy | NOTE: AQ40 Loot
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21891; -- Shard of the Fallen Star | NOTE: AQ40 Loot
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21928; -- Winterspring Blood Sample | 1.10 Tier 0.5
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21935; -- Stable Ectoplasm
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21936; -- Frozen Ectoplasm
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21937; -- Scorched Ectoplasm
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21938; -- Magma Core
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21939; -- Fel Elemental Rod
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21946; -- Ectoplasmic Distiller
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21982; -- Ogre Warbeads
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21983; -- Incomplete Banner of Provocation
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21984; -- Left Piece of Lord Valthalak's Amulet
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21985; -- Sealed Blood Container
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21986; -- Banner of Provocation
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21987; -- Incendicite of Incendius
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21988; -- Ember of Emberseer
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21989; -- Cinder of Cynders
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21994; -- Belt of Heroism | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21995; -- Boots of Heroism | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 21996; -- Bracers of Heroism | NOTE: Tier 0.5 questline
@@ -2079,14 +2208,19 @@ UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22009; -- Darkmantle Tunic 
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22010; -- Beastmaster's Belt | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22011; -- Beastmaster's Bindings | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22013; -- Beastmaster's Cap | NOTE: Tier 0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22014; -- Hallowed Brazier
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22015; -- Beastmaster's Gloves | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22016; -- Beastmaster's Mantle | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22017; -- Beastmaster's Pants | NOTE: Tier 0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22046; -- Right Piece of Lord Valthalak's Amulet
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22047; -- Top Piece of Lord Valthalak's Amulet
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22048; -- Lord Valthalak's Amulet
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22049; -- Brazier of Beckoning | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22050; -- Brazier of Beckoning | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22051; -- Brazier of Beckoning | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22052; -- Brazier of Beckoning | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22056; -- Brazier of Beckoning | NOTE: Tier 0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22057; -- Brazier of Invocation
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22060; -- Beastmaster's Tunic | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22061; -- Beastmaster's Boots | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22062; -- Sorcerer's Belt | NOTE: Tier 0.5 questline
@@ -2121,6 +2255,7 @@ UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22090; -- Soulforge Gauntle
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22091; -- Soulforge Helm | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22092; -- Soulforge Legplates | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22093; -- Soulforge Spaulders | NOTE: Tier 0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22094; -- Bloodkelp
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22095; -- Bindings of The Five Thunders | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22096; -- Boots of The Five Thunders | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22097; -- Coif of The Five Thunders | NOTE: Tier 0.5 questline
@@ -2137,14 +2272,21 @@ UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22110; -- Feralheart Gloves
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22111; -- Feralheart Kilt | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22112; -- Feralheart Spaulders | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22113; -- Feralheart Vest | NOTE: Tier 0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22115; -- Extra-Dimensional Ghost Revealer
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22137; -- Ysida's Satchel
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22138; -- Blackrock Bracer
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22139; -- Ysida's Locket
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22149; -- Beads of Ogre Mojo | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22150; -- Beads of Ogre Might | NOTE: Tier 0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22191; -- Obsidian Mail Tunic | NOTE: Patch notes (new blacksmithing patterns added)
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22192; -- Bloodkelp Elixir of Dodging | 1.10 Reward from T0.5 chain
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22193; -- Bloodkelp Elixir of Resistance
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22194; -- Black Grasp of the Destroyer | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22195; -- Light Obsidian Belt | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22196; -- Thick Obsidian Breastplate | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22197; -- Heavy Obsidian Belt | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22198; -- Jagged Obsidian Shield | NOTE: Patch notes (new blacksmithing patterns added)
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 22201; -- Reliquary of Purity | Dire Maul (item entry changed at some point?)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22204; -- Wristguards of Renown | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22205; -- Black Steel Bindings | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22206; -- Bouquet of Red Roses | NOTE: Allakhazam comments
@@ -2152,13 +2294,19 @@ UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22207; -- Sash of the Grand
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22208; -- Lavastone Hammer | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22209; -- Plans: Heavy Obsidian Belt | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22212; -- Golem Fitted Pauldrons | NOTE: Major loot table update
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22216; -- Venoxis's Venom Sac | 1.9 AQ quest
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22217; -- Kurinnaxx's Venom Sac
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22214; -- Plans: Light Obsidian Belt | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22219; -- Plans: Jagged Obsidian Shield | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22220; -- Plans: Black Grasp of the Destroyer | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22221; -- Plans: Obsidian Mail Tunic | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22222; -- Plans: Thick Obsidian Breastplate | NOTE: Patch notes (new blacksmithing patterns added)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22223; -- Foreman's Head Protector | NOTE: Major loot table update
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22224; -- Jeering Spectre's Essence | 1.10 T0.5 questline
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22225; -- Dragonskin Cowl | NOTE: Major loot table update
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22227; -- Starbreeze Village Relic | 1.10 T0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22228; -- Brilliant Sword of Zealotry
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22229; -- Soul Ashes of the Banished
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22231; -- Kayser's Boots of Precision | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22232; -- Marksman's Girdle | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22234; -- Mantle of Lost Hope | NOTE: Major loot table update
@@ -2220,13 +2368,44 @@ UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22339; -- Rune Band of Wiza
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22340; -- Pendant of Celerity | NOTE: Tier 0.5 boss loot
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22342; -- Leggings of Torment | NOTE: Tier 0.5 boss loot
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22343; -- Handguards of Savagery | NOTE: Tier 0.5 boss loot
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22344; -- Brazier of Invocation: User's Manual
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22345; -- Totem of Rebirth | NOTE: Tier 0.5 boss loot
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22347; -- Fahrad's Reloading Repeater | NOTE: The Perfect Poison quest added (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22348; -- Doomulus Prime | NOTE: The Perfect Poison quest added (Allakhazam comment dates)
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22349; -- Desecrated Breastplate
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22350; -- Desecrated Tunic
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22351; -- Desecrated Robe
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22352; -- Desecrated Legplates
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22353; -- Desecrated Helmet
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22354; -- Desecrated Pauldrons
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22355; -- Desecrated Bracers
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22356; -- Desecrated Waistguard
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22357; -- Desecrated Gauntlets
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22358; -- Desecrated Sabatons
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22359; -- Desecrated Legguards
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22360; -- Desecrated Headpiece
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22361; -- Desecrated Spaulders
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22362; -- Desecrated Wristguards
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22363; -- Desecrated Girdle
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22364; -- Desecrated Handguards
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22365; -- Desecrated Boots
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22366; -- Desecrated Leggings
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22367; -- Desecrated Circlet
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22368; -- Desecrated Shoulderpads
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22369; -- Desecrated Bindings
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22370; -- Desecrated Belt
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22371; -- Desecrated Gloves
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22372; -- Desecrated Sandals
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22373; -- Wartorn Leather Scrap
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22374; -- Wartorn Chain Scrap
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22375; -- Wartorn Plate Scrap
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22376; -- Wartorn Cloth Scrap
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22377; -- The Thunderwood Poker | NOTE: The Perfect Poison quest added (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22378; -- Ravenholdt Slicer | NOTE: The Perfect Poison quest added (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22379; -- Shivsprocket's Shiv | NOTE: The Perfect Poison quest added (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22380; -- Simone's Cultivating Hammer | NOTE: The Perfect Poison quest added (Allakhazam comment dates)
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22381; -- Silithus Venom Sample | 1.10 T0.5 questline
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22382; -- Sealed Venom Container
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22383; -- Sageblade | NOTE: Major loot table update (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22384; -- Persuader | NOTE: Major loot table update (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22385; -- Titanic Leggings | NOTE: Major loot table update
@@ -2269,6 +2448,10 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22428; -- Redemption Headpi
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22429; -- Redemption Spaulders | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22430; -- Redemption Boots | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22431; -- Redemption Girdle | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22432; -- Devilsaur Barb | 1.10 Druid Level 50 class quest
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22434; -- Bloodcap
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22435; -- Gorishi Sting
+UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22444; -- Putrid Vine
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 22433; -- Don Mauricio's Band of Domination | NOTE: Major loot table update (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22436; -- Cryptstalker Tunic | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22437; -- Cryptstalker Legguards | NOTE: Naxx loot
@@ -2296,6 +2479,15 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22480; -- Bonescythe Sabato
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22481; -- Bonescythe Gauntlets | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22482; -- Bonescythe Waistguard | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22483; -- Bonescythe Bracers | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22484; -- Necrotic Rune | 1.11 Scourge Invasion
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22520; -- The Phylactery of Kel'Thuzad | Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22523; -- Insignia of the Dawn | 1.11 Argent Dawn
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22524; -- Insignia of the Crusade
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22525; -- Crypt Fiend Parts
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22526; -- Bone Fragments
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22527; -- Core of Elements
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22528; -- Dark Iron Scraps
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22529; -- Savage Frond
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22488; -- Dreamwalker Tunic | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22489; -- Dreamwalker Legguards | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22490; -- Dreamwalker Headpiece | NOTE: Naxx loot
@@ -2328,11 +2520,43 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22516; -- Sandals of Faith 
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22517; -- Gloves of Faith | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22518; -- Belt of Faith | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22519; -- Bindings of Faith | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22568; -- Sealed Craftsman's Writ | 1.11 Argent Dawn
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22589; -- Atiesh, Greatstaff of the Guardian | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22593; -- Writ of Safe Passage | 1.11 Argent Dawn
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22600; -- Craftsman's Writ - Dense Weightstone
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22601; -- Craftsman's Writ - Imperial Plate Chest
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22602; -- Craftsman's Writ - Volcanic Hammer
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22603; -- Craftsman's Writ - Huge Thorium Battleaxe
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22604; -- Craftsman's Writ - Radiant Circlet
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22605; -- Craftsman's Writ - Wicked Leather Headband
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22606; -- Craftsman's Writ - Rugged Armor Kit
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22607; -- Craftsman's Writ - Wicked Leather Belt
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22608; -- Craftsman's Writ - Runic Leather Pants
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22609; -- Craftsman's Writ - Brightcloth Pants
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22610; -- Craftsman's Writ - Runecloth Boots
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22611; -- Craftsman's Writ - Runecloth Bag
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22612; -- Craftsman's Writ - Runecloth Robe
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22613; -- Craftsman's Writ - Goblin Sapper Charge
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22614; -- Craftsman's Writ - Thorium Grenade
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22615; -- Craftsman's Writ - Gnomish Battle Chicken
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22616; -- Craftsman's Writ - Thorium Tube
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22617; -- Craftsman's Writ - Major Mana Potion
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22618; -- Craftsman's Writ - Major Healing Potion
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22620; -- Craftsman's Writ - Greater Arcane Protection Potion
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22621; -- Craftsman's Writ - Flask of Petrification
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22622; -- Craftsman's Writ - Stonescale Eel
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22623; -- Craftsman's Writ - Plated Armorfish
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22624; -- Craftsman's Writ - Lightning Eel
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22630; -- Atiesh, Greatstaff of the Guardian | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22631; -- Atiesh, Greatstaff of the Guardian | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22632; -- Atiesh, Greatstaff of the Guardian | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22635; -- Savage Guard
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22636; -- Ice Guard
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22637; -- Primal Hakkari Idol | NOTE: ZG enchant change
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22638; -- Shadow Guard
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22648; -- Hive'Ashi Dossier | 1.9 Silithus quests
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22649; -- Hive'Regal Dossier
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22650; -- Hive'Zora Dossier
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22651; -- Outrider's Plate Legguards | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22652; -- Glacial Vest | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22654; -- Glacial Gloves | NOTE: Naxx loot
@@ -2356,9 +2580,11 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22671; -- Icebane Bracers |
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22672; -- Sentinel's Plate Legguards | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22673; -- Outrider's Chain Leggings | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22676; -- Outrider's Mail Leggings | NOTE: WSG rewards added
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22679; -- Supply Bag | NOTE: AD badge quests added (1.11 patch notes)
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22678; -- Talisman of Ascendance | NOTE: AD badge quests added (1.11 patch notes)
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22680; -- Band of Resolution | NOTE: AD badge quests added (1.11 patch notes)
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22681; -- Band of Piety | NOTE: AD badge quests added (1.11 patch notes)
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22682; -- Frozen Rune | Naxx
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22683; -- Pattern: Gaea's Embrace | NOTE: New CC Nature resist rep rewards added (1.11 patch notes)
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22688; -- Verimonde's Last Resort | NOTE: AD badge quests added (1.11 patch notes)
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22689; -- Sanctified Leather Helm | NOTE: AD badge quests added (1.11 patch notes)
@@ -2376,6 +2602,7 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22714; -- Sacrificial Gaunt
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22715; -- Gloves of the Tormented | NOTE: ZG Loot update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22716; -- Belt of Untapped Power | NOTE: ZG Loot update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22718; -- Blooddrenched Mask | NOTE: Major loot table update
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22719; -- Omarion's Handbook | Naxx crafting
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22720; -- Zulian Headdress | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22721; -- Band of Servitude | NOTE: Major loot table update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22722; -- Seal of the Gurubashi Berserker | NOTE: ZG Loot update
@@ -2384,6 +2611,8 @@ UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22730; -- Eyestalk Waist Co
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22731; -- Cloak of the Devoured | NOTE: Looted 4/25/2006, no evidence it wasn't on original C'thun loot tables
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 22732; -- Mark of C'Thun | NOTE: Looted 4/25/2006, no evidence it wasn't on original C'thun loot tables
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22736; -- Andonisus, Reaper of Souls | NOTE: Atiesh quest summoned weapon
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22737; -- Atiesh, Greatstaff of the Guardian | Naxx
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 22739; -- Tome of Polymorph: Turtle | 1.7 ZG alternate polymorph
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22740; -- Outrider's Leather Pants | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22741; -- Outrider's Lizardhide Pants | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22742; -- Bloodsail Shirt | NOTE: https://web.archive.org/web/20071210200745/http://wow.allakhazam.com:80/db/item.html?witem=22742
@@ -2395,6 +2624,7 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22749; -- Sentinel's Leathe
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22750; -- Sentinel's Lizardhide Pants | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22752; -- Sentinel's Silk Leggings | NOTE: WSG rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22753; -- Sentinel's Lamellar Legguards | NOTE: WSG rewards added
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22754; -- Eternal Quintessence | 1.11 Players may now get an infinite Aqual Quintessence
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22756; -- Sylvan Vest | NOTE: Cenarion circle rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22757; -- Sylvan Crown | NOTE: Cenarion circle rewards added
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22758; -- Sylvan Shoulders | NOTE: Cenarion circle rewards added
@@ -2478,6 +2708,8 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22941; -- Polar Shoulder Pa
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22942; -- The Widow's Embrace | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22943; -- Malice Stone Pendant | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22947; -- Pendant of Forgotten Names | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22949; -- Cracked Necrotic Crystal | 1.11 Scourge Invasion
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22950; -- Faint Necrotic Crystal
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22954; -- Kiss of the Spider | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22960; -- Cloak of Suturing | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 22961; -- Band of Reanimation | NOTE: Naxx loot
@@ -2528,6 +2760,7 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23050; -- Cloak of the Necr
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23051; -- Glaive of the Defender | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23053; -- Stormrage's Talisman of Seething | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23054; -- Gressil, Dawn of Ruin | NOTE: Naxx loot
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23055; -- Word of Thawing | Naxx
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23056; -- Hammer of the Twisting Nether | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23057; -- Gem of Trapped Innocents | NOTE: Naxx loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23059; -- Ring of the Dreadnaught | NOTE: Naxx loot
@@ -2557,6 +2790,8 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23090; -- Bracers of Undead
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23091; -- Bracers of Undead Cleansing | NOTE: Pre-naxx world event reward
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23092; -- Wristguards of Undead Slaying | NOTE: Pre-naxx world event reward
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23093; -- Wristwraps of Undead Slaying | NOTE: Pre-naxx world event reward
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23123; -- Blessed Wizard Oil | 1.11 Naxx
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23160; -- Friendship Bread
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23124; -- Staff of Balzaphon | NOTE: Pre-naxx world event drop
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23125; -- Chains of the Lich | NOTE: Pre-naxx world event drop
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23126; -- Waistband of Balzaphon | NOTE: Pre-naxx world event drop
@@ -2590,6 +2825,7 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23238; -- Stygian Buckler |
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23242; -- Claw of the Frost Wyrm | NOTE: Naxx Loot
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23243; -- Champion's Plate Shoulders | NOTE: 1.11 PvP Item update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23244; -- Champion's Plate Helm | NOTE: 1.11 PvP Item update
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23250; -- Prismatic Shell | 1.11 Polymorph: Pig quest line
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23251; -- Champion's Chain Helm | NOTE: 1.11 PvP Item update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23252; -- Champion's Chain Shoulders | NOTE: 1.11 PvP Item update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23253; -- Champion's Dragonhide Headguard | NOTE: 1.11 PvP Item update
@@ -2667,6 +2903,10 @@ UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23466; -- High Warlord's Sp
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23467; -- High Warlord's Quickblade | NOTE: 1.11 PvP Item update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23468; -- High Warlord's Tome of Destruction | NOTE: 1.11 PvP Item update
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23469; -- High Warlord's Tome of Mending | NOTE: 1.11 PvP Item update
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23545; -- Power of the Scourge | 1.11 Naxx shoulder enchants
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23547; -- Resilience of the Scourge
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23548; -- Might of the Scourge
+UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23549; -- Fortitude of the Scourge
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23557; -- Larvae of the Great Worm | NOTE: 1.11 patch notes: new items for Ouro
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23558; -- The Burrower's Shell | NOTE: 1.11 patch notes: new items for Ouro
 UPDATE `item_template` SET `patch`= 9 WHERE `entry`= 23570; -- Jom Gabbar | NOTE: 1.11 patch notes: new items for Ouro
