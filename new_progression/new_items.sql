@@ -244,51 +244,128 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18202; -- Eskhandar's Left 
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18203; -- Eskhandar's Right Claw | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18204; -- Eskhandar's Pelt | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18205; -- Eskhandar's Collar | NOTE: 1.4 Molten Core loot update
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18208; -- Drape of Benediction | 1.3 Azuregos Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18251; -- Core Armor Kit | 1.4 MC
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18252; -- Pattern: Core Armor Kit | NOTE: 1.4 Molten Core loot update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18253; -- Major Rejuvenation Potion | 1.4 MC
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18254; -- Runn Tum Tuber Surprise | 1.3 DM
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18257; -- Recipe: Major Rejuvenation Potion | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18259; -- Formula: Enchant Weapon - Spell Power | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18260; -- Formula: Enchant Weapon - Healing Power | NOTE: 1.4 Molten Core loot update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18262; -- Elemental Sharpening Stone | 
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18263; -- Flarecore Wraps | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18264; -- Plans: Elemental Sharpening Stone | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18265; -- Pattern: Flarecore Wraps | NOTE: 1.4 Molten Core loot update
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18267; -- Recipe: Runn Tum Tuber Surprise | 1.3 DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18282; -- Core Marksman Rifle | 1.4 MC
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18283; -- Biznicks 247x128 Accurascope | 1.4 MC
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18289; -- Barbed Thorn Necklace | 1.3 DM
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18290; -- Schematic: Biznicks 247x128 Accurascope | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18291; -- Schematic: Force Reactive Disk | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18292; -- Schematic: Core Marksman Rifle | NOTE: 1.4 Molten Core loot update
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18295; -- Phasing Boots | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18296; -- Marksman Bands | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18298; -- Unbridled Leggings | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18301; -- Lethtendris's Wand | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18302; -- Band of Vigor | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18305; -- Breakwater Legguards | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18306; -- Gloves of Shadowy Mist | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18307; -- Riptide Shoes | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18308; -- Clever Hat | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18309; -- Gloves of Restoration | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18310; -- Fiendish Machete | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18311; -- Quel'dorai Channeling Rod | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18312; -- Energized Chestplate | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18313; -- Helm of Awareness | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18314; -- Ring of Demonic Guile | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18315; -- Ring of Demonic Potency | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18317; -- Tempest Talisman | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18318; -- Merciful Greaves | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18319; -- Fervent Helm | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18321; -- Energetic Rod | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18322; -- Waterspout Boots | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18323; -- Satyr's Bow | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18324; -- Waveslicer | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18325; -- Felhide Cap | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18326; -- Razor Gauntlets | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18327; -- Whipvine Cord | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18328; -- Shadewood Cloak | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18336; -- Gauntlet of Gordok Might | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18337; -- Orphic Bracers | NOTE: Dire Maul Loot (Random drop off 11480, 14399, 11483, and 11484 only)
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18338; -- Wand of Arcane Potency | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18339; -- Eidolon Cloak | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18340; -- Eidolon Talisman | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18343; -- Petrified Band | NOTE: Dire Maul Loot (Random drop off 11459, 14303, and 11458 only)
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18344; -- Stonebark Gauntlets | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18345; -- Murmuring Ring | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18346; -- Threadbare Trousers | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18347; -- Well Balanced Axe | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18348; -- Quel'Serrar | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18349; -- Gauntlets of Accuracy | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18350; -- Amplifying Cloak | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18351; -- Magically Sealed Bracers | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18352; -- Petrified Bark Shield | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18353; -- Stoneflower Staff | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18354; -- Pimgib's Collar | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18356; -- Garona: A Study on Stealth and Treachery | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18357; -- Codex of Defense | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18358; -- The Arcanist's Cookbook | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18359; -- The Light and How to Swing It | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18360; -- Harnessing Shadows | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18361; -- The Greatest Race of Hunters | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18362; -- Holy Bologna: What the Light Won't Tell You | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18363; -- Frost Shock and You | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18364; -- The Emerald Dream | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18366; -- Gordok's Handguards | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18367; -- Gordok's Gauntlets | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18368; -- Gordok's Gloves | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18369; -- Gordok's Handwraps | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18370; -- Vigilance Charm | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18371; -- Mindtap Talisman | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18372; -- Blade of the New Moon | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18373; -- Chestplate of Tranquility | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18374; -- Flamescarred Shoulders | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18375; -- Bracers of the Eclipse | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18376; -- Timeworn Mace | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18377; -- Quickdraw Gloves | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18378; -- Silvermoon Leggings | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18379; -- Odious Greaves | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18380; -- Eldritch Reinforced Legplates | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18381; -- Evil Eye Pendant | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18382; -- Fluctuating Cloak | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18383; -- Force Imbued Gauntlets | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18384; -- Bile-etched Spaulders | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18385; -- Robe of the Everlasting Night | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18386; -- Padre's Trousers | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18387; -- Brightspark Gloves | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18388; -- Stoneshatter | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18389; -- Cloak of the Cosmos | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18390; -- Tanglemoss Leggings | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18391; -- Eyestalk Cord | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18392; -- Distracting Dagger | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18393; -- Warpwood Binding | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18394; -- Demon Howl Wristguards | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18395; -- Emerald Flame Ring | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18396; -- Mind Carver | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18397; -- Elder Magus Pendant | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18401; -- Foror's Compendium of Dragon Slaying | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18405; -- Belt of the Archmage | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18407; -- Felcloth Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18408; -- Inferno Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18409; -- Mooncloth Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18410; -- Sprinter's Sword | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18411; -- Spry Boots | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18413; -- Cloak of Warding | DM Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18414; -- Pattern: Belt of the Archmage | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18415; -- Pattern: Felcloth Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18416; -- Pattern: Inferno Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18417; -- Pattern: Mooncloth Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18418; -- Pattern: Cloak of Warding | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18420; -- Bonecrusher | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18421; -- Backwood Helm | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18422; -- Head of Onyxia | 1.4 MC
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18423; -- Head of Onyxia | 1.4 MC
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18424; -- Sedge Boots | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18425; -- Kreeg's Mug | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18427; -- Sergeant's Cloak | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18428; -- Senior Sergeant's Insignia | NOTE: Added with PvP Honor System (Originally patch 1.4)
@@ -301,6 +378,9 @@ UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18450; -- Robe of Combustio
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18451; -- Hyena Hide Belt | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18452; -- Sergeant Major's Leather Armsplints | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18454; -- Sergeant Major's Dragonhide Armsplints | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18460; -- Unsophisticated Hand Cannon | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18462; -- Jagged Bone Fist | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18463; -- Ogre Pocket Knife | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18464; -- Gordok Nose Ring | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18466; -- Royal Seal of Eldre'Thalas | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18468; -- Royal Seal of Eldre'Thalas | NOTE: Dire Maul Loot
@@ -308,22 +388,78 @@ UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18470; -- Royal Seal of Eld
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18472; -- Royal Seal of Eldre'Thalas | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18475; -- Oddly Magical Belt | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18480; -- Scarab Plate Helm | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18482; -- Ogre Toothpick Shooter | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18485; -- Observer's Shield | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18458; -- Modest Armguards | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18459; -- Gallant's Wristguards | NOTE: DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18465; -- Royal Seal of Eldre'Thalas Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18467; -- Royal Seal of Eldre'Thalas Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18469; -- Royal Seal of Eldre'Thalas Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18471; -- Royal Seal of Eldre'Thalas Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18473; -- Royal Seal of Eldre'Thalas Gloves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18476; -- Mud Stained Boots | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18477; -- Shaggy Leggings | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18478; -- Hyena Hide Jerkin | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18479; -- Carrion Scorpid Helm | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18476; -- Mud Stained Boots | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18481; -- Skullcracking Mace | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18483; -- Mana Channeling Wand | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18484; -- Cho'Rush's Blade | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18486; -- Mooncloth Robe | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18487; -- Pattern: Mooncloth Robe | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18490; -- Insightful Hood | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18493; -- Bulky Iron Spaulders | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18494; -- Denwatcher's Shoulders | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18495; -- Redoubt Cloak | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18496; -- Heliotrope Cloak | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18497; -- Sublime Wristguards | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18498; -- Hedgecutter | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18499; -- Barrier Shield | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18500; -- Tarnished Elven Ring | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18501; -- Felvine Shard | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18502; -- Monstrous Glaive | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18503; -- Kromcrush's Chestplate | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18504; -- Girdle of Insight | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18506; -- Mongoose Boots | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18505; -- Mugger's Belt | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18507; -- Boots of the Full Moon | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18508; -- Swift Flight Bracers | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18509; -- Chromatic Cloak | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18511; -- Shifting Cloak | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18510; -- Hide of the Wild | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18514; -- Pattern: Girdle of Insight | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18515; -- Pattern: Mongoose Boots | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18516; -- Pattern: Swift Flight Bracers | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18517; -- Pattern: Chromatic Cloak | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18519; -- Pattern: Shifting Cloak | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18518; -- Pattern: Hide of the Wild | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18520; -- Barbarous Blade | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18521; -- Grimy Metal Boots | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18522; -- Band of the Ogre King | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18523; -- Brightly Glowing Stone | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18524; -- Leggings of Destruction | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18525; -- Bracers of Prosperity | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18526; -- Crown of the Ogre King | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18527; -- Harmonious Gauntlets | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18528; -- Cyclone Spaulders | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18529; -- Elemental Plate Girdle | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18531; -- Unyielding Maul | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18532; -- Mindsurge Robe | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18533; -- Gordok Bracers of Power | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18534; -- Rod of the Ogre Magi | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18535; -- Milli's Shield | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18536; -- Milli's Lexicon | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18537; -- Counterattack Lodestone | NOTE: Dire Maul Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18538; -- Treant's Bane | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18539; -- Reliquary of Purity | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18540; -- Sealed Reliquary of Purity | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18541; -- Puissant Cape | 1.3 Azuregos
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18542; -- Typhoon | 1.3 Azuregos
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18543; -- Ring of Entropy | NOTE: Original Kazzak loot (Allakhazam dates)
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18544; -- Doomhide Gauntlets | NOTE: Original Kazzak loot (Allakhazam dates)
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18545; -- Leggings of Arcane Supremacy | NOTE: Original Azuregos loot (Allakhazam dates)
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18546; -- Infernal Headcage | 1.3 Kazzak Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18547; -- Unmelting Ice Girdle | 1.3 Azuregos Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18563; -- Bindings of the Windseeker | NOTE: 1.4 Raid loot table update (Allakhazam dates, not patch 1.6 like crappy wowwiki says)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18564; -- Bindings of the Windseeker | NOTE: 1.4 Raid loot table update (Allakhazam dates, not patch 1.6 like crappy wowwiki says)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18592; -- Plans: Sulfuron Hammer | NOTE: 1.4 Raid loot table update
@@ -386,6 +522,7 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18720; -- Shroud of the Nat
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18721; -- Barrage Girdle | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18722; -- Death Grips | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18723; -- Animated Chain Necklace | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18724; -- Enchanted Black Dragon Sinew | 1.4 Onyxia
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18725; -- Peacemaker | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18726; -- Magistrate's Cuffs | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18727; -- Crimson Felt Hat | NOTE: 1.4 Dungeon loot table update (see retail patch notes)
@@ -515,6 +652,9 @@ UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 18957; -- Brushwood Blade |
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 18970; -- Ring of Critical Testing 2 | NOTE: Test item, not in game
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 18984; -- Dimensional Ripper - Everlook | NOTE: See 1.5 retail patch notes
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 18986; -- Ultrasafe Transporter: Gadgetzan | NOTE: See 1.5 retail patch notes
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 18987; -- Blackhand's Command | 1.6 BWL Attunement
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19002; -- Head of Nefarian | 1.6 BWL
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19003; -- Head of Nefarian | 1.6 BWL
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19019; -- Thunderfury, Blessed Blade of the Windseeker | NOTE: Quest not completable before 1.6
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19022; -- Nat Pagle's Extreme Angler FC-5000 | NOTE: Quests added to Revantusk Village (See retail patch notes)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 19024; -- Arena Grand Master | NOTE: 1.4 Gurubashi arena event (see patch notes)
@@ -529,6 +669,8 @@ UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19041; -- Pratt's Handcraft
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19042; -- Jangdor's Handcrafted Tunic | NOTE: "Quest ""Improved Quality"" added in 1.5 (allakhazam dating and inference from item/quest ID)"
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19043; -- Heavy Timbermaw Belt | NOTE: Timbermaw rewards added (see retail patch notes)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19044; -- Might of the Timbermaw | NOTE: Timbermaw rewards added (see retail patch notes)
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19045; -- Stormpike Battle Standard | 1.5 AV
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19046; -- Frostwolf Battle Standard | 1.5 AV
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19047; -- Wisdom of the Timbermaw | NOTE: Timbermaw rewards added (see retail patch notes)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19048; -- Heavy Timbermaw Boots | NOTE: Timbermaw rewards added (see retail patch notes)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19049; -- Timbermaw Brawlers | NOTE: Timbermaw rewards added (see retail patch notes)
@@ -634,6 +776,42 @@ UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19217; -- Pattern: Argent S
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19218; -- Pattern: Mantle of the Timbermaw | NOTE: 1.6 Retail Patch Notes
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19219; -- Pattern: Flarecore Robe | NOTE: 1.6 Retail Patch Notes
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19220; -- Pattern: Flarecore Leggings | NOTE: 1.6 Retail Patch Notes
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19227; -- Ace of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19228; -- Beasts Deck | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19230; -- Two of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19231; -- Three of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19232; -- Four of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19233; -- Five of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19234; -- Six of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19235; -- Seven of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19236; -- Eight of Beasts | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19257; -- Warlords Deck | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19258; -- Ace of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19259; -- Two of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19260; -- Three of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19261; -- Four of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19262; -- Five of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19263; -- Six of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19264; -- Seven of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19265; -- Eight of Warlords | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19267; -- Elementals Deck | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19268; -- Ace of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19269; -- Two of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19270; -- Three of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19271; -- Four of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19272; -- Five of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19273; -- Six of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19274; -- Seven of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19275; -- Eight of Elementals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19276; -- Ace of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19277; -- Portals Deck | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19278; -- Two of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19279; -- Three of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19280; -- Four of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19281; -- Five of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19282; -- Six of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19283; -- Seven of Portals | 1.6 DMF Cards
+UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19284; -- Eight of Portals | 1.6 DMF Cards
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19287; -- Darkmoon Card: Heroism | NOTE: 1.6 Retail Patch Notes (Darkmoon Faire)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19288; -- Darkmoon Card: Blue Dragon | NOTE: 1.6 Retail Patch Notes (Darkmoon Faire)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19289; -- Darkmoon Card: Maelstrom | NOTE: 1.6 Retail Patch Notes (Darkmoon Faire)
@@ -643,6 +821,12 @@ UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19293; -- Last Year's Mutto
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19295; -- Darkmoon Flower | NOTE: 1.6 Retail Patch Notes (Darkmoon Faire)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19302; -- Darkmoon Ring | NOTE: 1.6 Retail Patch Notes (Darkmoon Faire)
 UPDATE `item_template` SET `patch`= 4 WHERE `entry`= 19303; -- Darkmoon Necklace | NOTE: 1.6 Retail Patch Notes (Darkmoon Faire)
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19307; -- Alterac Heavy Runecloth Bandage | 1.5 AV
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19316; -- Ice Threaded Arrow | 1.5 AV
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19317; -- Ice Threaded Bullet | 1.5 AV
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19318; -- Bottled Alterac Spring Water | 1.5 AV
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19319; -- Harpy Hide Quiver | 1.5 AV
+UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19320; -- Gnoll Skin Bandolier | 1.5 AV
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19308; -- Tome of Arcane Domination | NOTE: AV Rep Rewards
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19309; -- Tome of Shadow Force | NOTE: AV Rep Rewards
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 19310; -- Tome of the Ice Lord | NOTE: AV Rep Rewards
@@ -883,6 +1067,35 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19693; -- Darksoul Breastpl
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19694; -- Darksoul Leggings | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19695; -- Darksoul Shoulders | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19697; -- Bounty of the Harvest | NOTE: Horde ONLY reward by mail for completing quest 8150 (Allakhazam dating)
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19698; -- Zulian Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19699; -- Razzashi Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19700; -- Hakkari Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19701; -- Gurubashi Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19702; -- Vilebranch Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19703; -- Witherbark Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19704; -- Sandfury Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19705; -- Skullsplitter Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19706; -- Bloodscalp Coin
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19707; -- Red Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19708; -- Blue Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19709; -- Yellow Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19710; -- Orange Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19711; -- Green Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19712; -- Purple Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19713; -- Bronze Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19714; -- Silver Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19715; -- Gold Hakkari Bijou
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19716; -- Primal Hakkari Bindings
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19717; -- Primal Hakkari Armsplint
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19718; -- Primal Hakkari Stanchion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19719; -- Primal Hakkari Girdle
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19720; -- Primal Hakkari Sash
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19721; -- Primal Hakkari Shawl
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19722; -- Primal Hakkari Tabard
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19723; -- Primal Hakkari Kossack
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19724; -- Primal Hakkari Aegis
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19726; -- Bloodvine
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19727; -- Blood Scythe
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19760; -- Overlord's Embrace | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19764; -- Pattern: Bloodvine Vest | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19765; -- Pattern: Bloodvine Leggings | NOTE: ZG Rep Reward
@@ -898,6 +1111,19 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19778; -- Plans: Bloodsoul 
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19779; -- Plans: Darksoul Breastplate | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19780; -- Plans: Darksoul Leggings | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19781; -- Plans: Darksoul Shoulders | NOTE: ZG Rep Reward
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19782; -- Presence of Might
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19783; -- Syncretist's Sigil
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19784; -- Death's Embrace
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19785; -- Falcon's Call
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19786; -- Vodouisant's Vigilant Embrace
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19787; -- Presence of Sight
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19788; -- Hoodoo Hex
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19789; -- Prophetic Aura
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19790; -- Animist's Caress
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19802; -- Heart of Hakkar
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19805; -- Keefer's Angelfish
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19806; -- Dezian Queenfish
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19807; -- Speckled Tastyfish
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19808; -- Rockhide Strongfish | NOTE: Fishing contest event
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19812; -- Rune of the Dawn | NOTE: New AD trinket reward, 1.7 retail patch notes
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19822; -- Zandalar Vindicator's Breastplate | NOTE: ZG Loot
@@ -931,6 +1157,7 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19854; -- Zin'rokh, Destroy
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19855; -- Bloodsoaked Legplates | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19856; -- The Eye of Hakkar | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19857; -- Cloak of Consumption | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19858; -- Zandalar Honor Token
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19859; -- Fang of the Faceless | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19861; -- Touch of Chaos | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19862; -- Aegis of the Blood God | NOTE: ZG Loot
@@ -942,12 +1169,17 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19867; -- Bloodlord's Defen
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19869; -- Blooddrenched Grips | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19870; -- Hakkari Loa Cloak | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19871; -- Talisman of Protection | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19872; -- Swift Razzashi Raptor
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19873; -- Overlord's Crimson Band | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19874; -- Halberd of Smiting | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19875; -- Bloodstained Coif | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19876; -- Soul Corrupter's Necklace | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19877; -- Animist's Leggings | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19878; -- Bloodsoaked Pauldrons | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19880; -- Gurubashi Head Collection
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19881; -- Channeler's Head
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19882; -- The Hexxer's Head
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19883; -- Sacred Cord
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19884; -- Jin'do's Judgement | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19885; -- Jin'do's Evil Eye | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19886; -- The Hexxer's Cover | NOTE: ZG Loot
@@ -966,6 +1198,7 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19898; -- Seal of Jin | NOT
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19899; -- Ritualistic Legguards | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19900; -- Zulian Stone Axe | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19901; -- Zulian Slicer | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19902; -- Swift Zulian Tiger
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19903; -- Fang of Venoxis | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19904; -- Runed Bloodstained Hauberk | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19905; -- Zanzil's Band | NOTE: ZG Loot
@@ -976,10 +1209,12 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19909; -- Will of Arlokk | 
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19910; -- Arlokk's Grasp | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19912; -- Overlord's Onyx Band | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19913; -- Bloodsoaked Greaves | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19914; -- Panther Hide Sack
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19915; -- Zulian Defender | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19918; -- Jeklik's Crusher | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19919; -- Bloodstained Greaves | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19920; -- Primalist's Band | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19921; -- Zulian Hacker
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19922; -- Arlokk's Hoodoo Stick | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19923; -- Jeklik's Opaline Talisman | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19925; -- Band of Jin | NOTE: ZG Loot
@@ -987,6 +1222,12 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19927; -- Mar'li's Touch | 
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19928; -- Animist's Spaulders | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19929; -- Bloodtinged Gloves | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19930; -- Mar'li's Eye | NOTE: ZG Loot
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19931; -- Gurubashi Mojo Madness
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19939; -- Gri'lek's Blood
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19940; -- Renataki's Tooth
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19941; -- Wushoolay's Mane
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19942; -- Hazza'rah's Dream Thread
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19943; -- Massive Mojo
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19944; -- Nat Pagle's Fish Terminator | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19945; -- Foror's Eyepatch | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19946; -- Tigule's Harpoon | NOTE: ZG Loot
@@ -1013,6 +1254,9 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19968; -- Fiery Retributer 
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19969; -- Nat Pagle's Extreme Anglin' Boots | NOTE: Fishing contest reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19970; -- Arcanite Fishing Pole | NOTE: Fishing contest reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19972; -- Lucky Fishing Hat | NOTE: Fishing contest reward
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19973; -- Nat's Measuring Tape
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19974; -- Mudskunk Lure
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19975; -- Zulian Mudskunk
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19979; -- Hook of the Master Angler | NOTE: Fishing contest reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19982; -- Duskbat Drape | NOTE: LVL 50 class quest (rogue), see retail 1.7 patch notes
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19984; -- Ebon Mask | NOTE: LVL 50 class quest (rogue), see retail 1.7 patch notes
@@ -1024,7 +1268,16 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19998; -- Bloodvine Lens | 
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 19999; -- Bloodvine Goggles | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20000; -- Schematic: Bloodvine Goggles | NOTE: ZG Rep Reward
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20001; -- Schematic: Bloodvine Lens | NOTE: ZG Rep Reward
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20002; -- Greater Dreamless Sleep Potion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20004; -- Major Troll's Blood Potion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20007; -- Mageblood Potion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20008; -- Living Action Potion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20011; -- Recipe: Mageblood Potion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20012; -- Recipe: Greater Dreamless Sleep
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20013; -- Recipe: Living Action Potion
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20014; -- Recipe: Major Troll's Blood Potion
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20006; -- Circle of Hope | NOTE: LVL 50 class quest (priest), see retail 1.7 patch notes
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20031; -- Essence Mango
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20032; -- Flowing Ritual Robes | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20033; -- Zandalar Demoniac's Robe | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20034; -- Zandalar Illusionist's Robe | NOTE: ZG Loot
@@ -1055,12 +1308,24 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20058; -- Highlander's Lame
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20059; -- Highlander's Leather Shoulders | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20060; -- Highlander's Lizardhide Shoulders | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20061; -- Highlander's Epaulets | NOTE: AB rep rewards (originally patch 1.7)
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20062; -- Arathi Basin Enriched Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20063; -- Arathi Basin Field Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20064; -- Arathi Basin Iron Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20065; -- Arathi Basin Mageweave Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20066; -- Arathi Basin Runecloth Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20067; -- Arathi Basin Silk Bandage
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20068; -- Deathguard's Cloak | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20069; -- Ironbark Staff | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20070; -- Sageclaw | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20071; -- Talisman of Arathor | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20072; -- Defiler's Talisman | NOTE: AB rep rewards (originally patch 1.7)
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20073; -- Cloak of the Honor Guard | NOTE: AB rep rewards (originally patch 1.7)
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20076; -- Zandalar Signet of Mojo
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20077; -- Zandalar Signet of Might
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20078; -- Zandalar Signet of Serenity
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20079; -- Spirit of Zanza
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20080; -- Sheen of Zanza
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20081; -- Swiftness of Zanza
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20082; -- Woestave | NOTE: LVL 50 class quest (priest), see retail 1.7 patch notes
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20083; -- Hunting Spear | NOTE: LVL 50 class quest (hunter), see retail 1.7 patch notes
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20086; -- Dusksteel Throwing Knife | NOTE: Ravenholdt repeatable quest added (Allakhazam dating)
@@ -1169,6 +1434,26 @@ UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20217; -- Belt of Tiny Head
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20218; -- Faded Hakkari Cloak | NOTE: ZG RP quest added
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20219; -- Tattered Hakkari Cape | NOTE: ZG RP quest added
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20220; -- Ironbark Staff | NOTE: AB rep rewards (originally patch 1.7)
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20222; -- Defiler's Enriched Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20223; -- Defiler's Field Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20224; -- Defiler's Iron Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20225; -- Highlander's Enriched Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20226; -- Highlander's Field Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20227; -- Highlander's Iron Ration
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20228; -- Defiler's Advanced Care Package
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20229; -- Defiler's Basic Care Package
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20230; -- Defiler's Standard Care Package
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20231; -- Arathor Advanced Care Package
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20232; -- Defiler's Mageweave Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20233; -- Arathor Basic Care Package
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20234; -- Defiler's Runecloth Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20235; -- Defiler's Silk Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20236; -- Arathor Standard Care Package
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20237; -- Highlander's Mageweave Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20243; -- Highlander's Runecloth Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20244; -- Highlander's Silk Bandage
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20253; -- Pattern: Warbear Harness
+UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20254; -- Pattern: Warbear Woolies
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20255; -- Whisperwalk Boots | NOTE: LVL 50 class quest (rogue), see retail 1.7 patch notes
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20257; -- Seafury Gauntlets | NOTE: ZG Loot
 UPDATE `item_template` SET `patch`= 5 WHERE `entry`= 20258; -- Zulian Ceremonial Staff | NOTE: ZG Loot
@@ -1185,11 +1470,13 @@ UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20296; -- Green Dragonscale
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20369; -- Azurite Fists | NOTE: LVL 50 class quest (shaman), see retail 1.8 patch notes
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20380; -- Dreamscale Breastplate | NOTE: New CC rep reward, using emerald dragon loot
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20382; -- Pattern: Dreamscale Breastplate | NOTE: New CC rep reward, using emerald dragon loot
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20383; -- Head of the Broodlord Lashlayer | 1.9 AQ Gate opening
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20391; -- Flimsy Male Gnome Mask | NOTE: Hallow's Eve event added (see 1.8 patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20392; -- Flimsy Female Gnome Mask | NOTE: Hallow's Eve event added (see 1.8 patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20406; -- Twilight Cultist Mantle | NOTE: Silithus windstone revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20407; -- Twilight Cultist Robe | NOTE: Silithus windstone revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20408; -- Twilight Cultist Cowl | NOTE: Silithus windstone revamp
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20424; -- Sandworm Meat | 1.8 Revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20425; -- Advisor's Gnarled Staff | NOTE: 10-19 PvP bracket expansion (1.8 Patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20426; -- Advisor's Ring | NOTE: 10-19 PvP bracket expansion (1.8 Patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20427; -- Battle Healer's Cloak | NOTE: 10-19 PvP bracket expansion (1.8 Patch notes)
@@ -1207,6 +1494,15 @@ UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20442; -- Scout's Medallion
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20443; -- Sentinel's Blade | NOTE: 10-19 PvP bracket expansion (1.8 Patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20444; -- Sentinel's Medallion | NOTE: 10-19 PvP bracket expansion (1.8 Patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20451; -- Twilight Cultist Ring of Lordship | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20452; -- Smoked Desert Dumplings | 1.8
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20454; -- Hive'Zora Rubbing | 1.8
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20455; -- Hive'Ashi Rubbing | 1.8
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20456; -- Hive'Regal Rubbing | 1.8
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20457; -- Hive'Ashi Silithid Brain | 1.8
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20458; -- Hive'Zora Silithid Brain | 1.8
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20459; -- Hive'Regal Silithid Brain | 1.8
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20461; -- Brann Bronzebeard's Lost Letter | 1.9 quest
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20464; -- Glyphs of Calling | 1.8 quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20476; -- Sandstalker Bracers | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20477; -- Sandstalker Gauntlets | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20478; -- Sandstalker Breastplate | NOTE: Silithus quest revamp
@@ -1225,6 +1521,9 @@ UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20509; -- Pattern: Sandstal
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20510; -- Pattern: Sandstalker Gauntlets | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20511; -- Pattern: Sandstalker Breastplate | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20512; -- Sanctified Orb | NOTE: LVL 50 class quest (paladin), see retail 1.8 patch notes
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20513; -- Abyssal Crest | 1.8 quest revamp
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20514; -- Abyssal Signet
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20515; -- Abyssal Scepter
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20517; -- Razorsteel Shoulders | NOTE: LVL 50 class quest (warrior), see 1.8 retail patch notes
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20521; -- Fury Visor | NOTE: LVL 50 class quest (warrior), see 1.8 retail patch notes
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20530; -- Robes of Servitude | NOTE: LVL 50 class quest (warlock), see 1.8 retail patch notes
@@ -1294,24 +1593,49 @@ UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20639; -- Strangely Glyphed
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20640; -- Southsea Head Bucket | NOTE: New Tanaris quests added (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20641; -- Southsea Mojo Boots | NOTE: New Tanaris quests added (Allakhazam comment dates)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20642; -- Antiquated Nobleman's Tunic | NOTE: New quests added (Allakhazam comment dates)
-UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20643; -- Undercity Reservist's Cap | NOTE: New quests added (Allakhazam comment dates)
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20643; -- Undercity Reservist's Cap | NOTE: New quests added (Allakhazam comment dates)\
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20644; -- Nightmare Engulfed Object | 1.8 Nightmare Dragons
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20645; -- Nature's Whisper | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20646; -- Sandstrider's Mark | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20647; -- Black Crystal Dagger | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20648; -- Cold Forged Hammer | NOTE: New AV quest reward (see 1.8 patch notes)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20649; -- Sunprism Pendant | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20650; -- Desert Wind Gauntlets | NOTE: Silithus quest revamp
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20652; -- Abyssal Cloth Slippers
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20653; -- Abyssal Plate Gauntlets
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20654; -- Amethyst War Staff | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20655; -- Abyssal Cloth Handwraps
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20656; -- Abyssal Mail Sabatons
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20657; -- Crystal Tipped Stiletto | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20658; -- Abyssal Leather Boots
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20659; -- Abyssal Mail Handguards
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20660; -- Stonecutting Glaive | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20661; -- Abyssal Leather Gloves
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20662; -- Abyssal Plate Greaves
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20663; -- Deep Strike Bow | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20664; -- Abyssal Cloth Sash
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20665; -- Abyssal Leather Leggings
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20666; -- Hardened Steel Warhammer | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20667; -- Abyssal Leather Belt
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20668; -- Abyssal Mail Legguards
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20669; -- Darkstone Claymore | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20670; -- Abyssal Mail Clutch
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20671; -- Abyssal Plate Legplates
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20672; -- Sparkling Crystal Wand | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20673; -- Abyssal Plate Girdle
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20674; -- Abyssal Cloth Pants
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20675; -- Soulrender | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20680; -- Abyssal Mail Pauldrons
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20681; -- Abyssal Leather Bracers
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20682; -- Elemental Focus Band | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20683; -- Abyssal Plate Epaulets
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20684; -- Abyssal Mail Armguards
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20685; -- Wavefront Necklace | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20686; -- Abyssal Cloth Amice
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20687; -- Abyssal Plate Vambraces
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20688; -- Earthen Guard | NOTE: Silithus windstones
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20689; -- Abyssal Leather Shoulders
+UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20690; -- Abyssal Cloth Wristbands
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20691; -- Windshear Cape | NOTE: Silithus windstones
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20693; -- Weighted Cloak | NOTE: Silithus windstones (spoils bag)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20694; -- Glowing Black Orb | NOTE: Silithus windstones (spoils bag)
