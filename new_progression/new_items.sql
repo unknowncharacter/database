@@ -14,8 +14,12 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 12620; -- Enchanted Thorium
 UPDATE `item_template` SET `patch`= 10 WHERE `entry`= 12625; -- Dawnbringer Shoulders | NOTE: Did not exist until late 2006/2007 (NOTE: Plans are not on this list)
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 13075; -- Direwing Legguards | NOTE: Drops off arena bosses and 1.3 world bosses (originally) per Allakhazam
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15196; -- Private's Tabard | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15197; -- Scout's Tabard | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15198; -- Knight's Colors | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15199; -- Stone Guard's Herald | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 15200; -- Senior Sergeant's Insignia | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16341; -- Sergeant's Cloak | NOTE: Added with PvP Honor System (Originally patch 1.4)
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16342; -- Sergeant's Cape | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16335; -- Senior Sergeant's Insignia | NOTE: Added with PvP Honor System (Originally patch 1.4)
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16345; -- High Warlord's Blade | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16369; -- Knight-Lieutenant's Silk Boots | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
@@ -91,6 +95,7 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16480; -- Field Marshal's P
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16483; -- Marshal's Plate Boots | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16484; -- Marshal's Plate Gauntlets | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16485; -- Blood Guard's Silk Footwraps | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16486; -- First Sergeant's Silk Cuffs | NOTE: "Added with PvP Honor System"
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16487; -- Blood Guard's Silk Gloves | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16489; -- Champion's Silk Hood | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16490; -- Legionnaire's Silk Pants | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
@@ -98,6 +103,7 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16491; -- Legionnaire's Sil
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16492; -- Champion's Silk Shoulderpads | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16494; -- Blood Guard's Dragonhide Boots | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16496; -- Blood Guard's Dragonhide Gauntlets | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16497; -- First Sergeant's Leather Armguards | NOTE: "Added with PvP Honor System"
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16498; -- Blood Guard's Leather Treads | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16499; -- Blood Guard's Leather Vices | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16501; -- Champion's Dragonhide Spaulders | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
@@ -126,6 +132,7 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16527; -- Legionnaire's Cha
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16528; -- Champion's Chain Pauldrons | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16530; -- Blood Guard's Chain Gauntlets | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16531; -- Blood Guard's Chain Boots | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, changed to level 60 pvp set in 1.11
+UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16532; -- First Sergeant's Mail Wristguards | NOTE: "Added with PvP Honor System"
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16533; -- Warlord's Silk Cowl | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16534; -- General's Silk Trousers | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16535; -- Warlord's Silk Raiment | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
