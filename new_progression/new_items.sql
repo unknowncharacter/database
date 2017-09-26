@@ -1672,9 +1672,70 @@ UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20721; -- Band of the Culti
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20722; -- Crystal Slugthrower | NOTE: Silithus windstones (spoils bag)
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20723; -- Brann's Trusty Pick | NOTE: Silithus quest revamp
 UPDATE `item_template` SET `patch`= 6 WHERE `entry`= 20724; -- Corrupted Blackwood Staff | NOTE: Silithus quest revamp
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20726; -- Formula: Enchant Gloves - Threat | AQ enchants
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20727; -- Formula: Enchant Gloves - Shadow Power
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20728; -- Formula: Enchant Gloves - Frost Power
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20729; -- Formula: Enchant Gloves - Fire Power
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20730; -- Formula: Enchant Gloves - Healing Power
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20731; -- Formula: Enchant Gloves - Superior Agility
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20732; -- Formula: Enchant Cloak - Greater Fire Resistance
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20733; -- Formula: Enchant Cloak - Greater Nature Resistance
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20734; -- Formula: Enchant Cloak - Stealth
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20735; -- Formula: Enchant Cloak - Subtlety
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20736; -- Formula: Enchant Cloak - Dodge
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20741; -- Deadwood Ritual Totem | 1.9 Timbermaw quests
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20742; -- Winterfall Ritual Totem
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20752; -- Formula: Minor Mana Oil | 1.9 Oils added, N.B. Do not remove the actual craftable items from the game, as some players have them
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20753; -- Formula: Lesser Wizard Oil
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20754; -- Formula: Lesser Mana Oil
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20755; -- Formula: Wizard Oil
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20756; -- Formula: Brilliant Wizard Oil
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20757; -- Formula: Brilliant Mana Oil
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20758; -- Formula: Minor Wizard Oil
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20761; -- Recipe: Transmute Elemental Fire | NOTE: See 1.9 retail patch notes
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20858; -- Stone Scarab | 1.9 AQ items
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20859; -- Gold Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20860; -- Silver Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20861; -- Bronze Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20862; -- Crystal Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20863; -- Clay Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20864; -- Bone Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20865; -- Ivory Scarab
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20866; -- Azure Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20867; -- Onyx Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20868; -- Lambent Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20869; -- Amber Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20870; -- Jasper Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20871; -- Obsidian Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20872; -- Vermillion Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20873; -- Alabaster Idol
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20874; -- Idol of the Sun
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20875; -- Idol of Night
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20876; -- Idol of Death
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20877; -- Idol of the Sage
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20878; -- Idol of Rebirth
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20879; -- Idol of Life
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20881; -- Idol of Strife
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20882; -- Idol of War
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20884; -- Qiraji Magisterial Ring
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20885; -- Qiraji Martial Drape
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20886; -- Qiraji Spiked Hilt
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20888; -- Qiraji Ceremonial Ring
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20889; -- Qiraji Regal Drape
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20890; -- Qiraji Ornate Hilt
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20926; -- Vek'nilash's Circlet
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20927; -- Ouro's Intact Hide
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20928; -- Qiraji Bindings of Command
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20929; -- Carapace of the Old God
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20930; -- Vek'lor's Diadem
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20931; -- Skin of the Great Sandworm
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20932; -- Qiraji Bindings of Dominance
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 20933; -- Husk of the Old God
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21039; -- Narain's Turban | NOTE: AQ Gates Questline
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21040; -- Narain's Robe | NOTE: AQ Gates Questline
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21023; -- Dirge's Kickin' Chimaerok Chops | 1.9 food recipe
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21024; -- Chimaerok Tenderloin
+UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21025; -- Recipe: Dirge's Kickin' Chimaerok Chops
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21115; -- Defiler's Talisman | NOTE: AB rep rewards (See 1.9 patch notes)
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21116; -- Defiler's Talisman | NOTE: AB rep rewards (See 1.9 patch notes)
 UPDATE `item_template` SET `patch`= 7 WHERE `entry`= 21117; -- Talisman of Arathor | NOTE: AB rep rewards (See 1.9 patch notes)
