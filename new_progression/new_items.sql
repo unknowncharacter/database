@@ -243,7 +243,8 @@ UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 17907; -- Frostwolf Insigni
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 17908; -- Frostwolf Insignia Rank 5 | NOTE: AV Rewards
 UPDATE `item_template` SET `patch`= 3 WHERE `entry`= 17909; -- Frostwolf Insignia Rank 6 | NOTE: AV Rewards
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18022; -- Royal Seal of Alexis | NOTE: See 1.3 retail patch notes
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18083; -- Jumanza Grips | NOTE: wowwiki and allakhazam dates
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18082; -- Zum'rah's Vexing Cane | NOTE: 1.3 patch notes
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18083; -- Jumanza Grips | NOTE: 1.3 patch notes
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18103; -- Band of Rumination | NOTE: wowwiki and allakhazam dates
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18104; -- Feralsurge Girdle | NOTE: wowwiki and allakhazam dates
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18168; -- Force Reactive Disk | NOTE: 1.4 Molten Core loot update
