@@ -288,27 +288,27 @@ UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18289; -- Barbed Thorn Neck
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18290; -- Schematic: Biznicks 247x128 Accurascope | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18291; -- Schematic: Force Reactive Disk | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18292; -- Schematic: Core Marksman Rifle | NOTE: 1.4 Molten Core loot update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18295; -- Phasing Boots | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18296; -- Marksman Bands | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18298; -- Unbridled Leggings | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18301; -- Lethtendris's Wand | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18295; -- Phasing Boots | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18296; -- Marksman Bands | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18298; -- Unbridled Leggings | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18301; -- Lethtendris's Wand | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18302; -- Band of Vigor | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18305; -- Breakwater Legguards | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18306; -- Gloves of Shadowy Mist | NOTE: Dire Maul Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18307; -- Riptide Shoes | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18308; -- Clever Hat | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18307; -- Riptide Shoes | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18308; -- Clever Hat | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18309; -- Gloves of Restoration | NOTE: Dire Maul Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18310; -- Fiendish Machete | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18311; -- Quel'dorai Channeling Rod | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18312; -- Energized Chestplate | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18310; -- Fiendish Machete | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18311; -- Quel'dorai Channeling Rod | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18312; -- Energized Chestplate | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18313; -- Helm of Awareness | NOTE: Dire Maul Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18314; -- Ring of Demonic Guile | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18314; -- Ring of Demonic Guile | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18315; -- Ring of Demonic Potency | NOTE: Dire Maul Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18317; -- Tempest Talisman | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18318; -- Merciful Greaves | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18319; -- Fervent Helm | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18317; -- Tempest Talisman | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18318; -- Merciful Greaves | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18319; -- Fervent Helm | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18321; -- Energetic Rod | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18322; -- Waterspout Boots | DM Loot
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18322; -- Waterspout Boots | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18323; -- Satyr's Bow | NOTE: Dire Maul Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18324; -- Waveslicer | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18325; -- Felhide Cap | NOTE: Dire Maul Loot
@@ -381,7 +381,7 @@ UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18409; -- Mooncloth Gloves 
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18410; -- Sprinter's Sword | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18411; -- Spry Boots | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18413; -- Cloak of Warding | DM Loot
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 18414; -- Pattern: Belt of the Archmage | DM
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18414; -- Pattern: Belt of the Archmage | DM
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18415; -- Pattern: Felcloth Gloves | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18416; -- Pattern: Inferno Gloves | DM Loot
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 18417; -- Pattern: Mooncloth Gloves | DM Loot
