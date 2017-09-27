@@ -170,13 +170,6 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16578; -- Warlord's Mail He
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16579; -- General's Mail Leggings | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16580; -- Warlord's Mail Spaulders | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 17061; -- Juno's Shadow | NOTE: 1.10 Loot table update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17063; -- Band of Accuria | NOTE: 1.4 Molten Core loot update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17067; -- Ancient Cornerstone Grimoire | NOTE: 1.4 Molten Core loot update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17076; -- Bonereaver's Edge | NOTE: Note: Proc changed and +16 stamina added in 1.10
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17102; -- Cloak of the Shrouded Mists | NOTE: 1.4 Molten Core loot update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17104; -- Spinal Reaper | NOTE: 1.4 Molten Core loot update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17106; -- Malistar's Defender | NOTE: 1.4 Molten Core loot update
-UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17107; -- Dragon's Blood Cape | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 17111; -- Blazefury Medallion | NOTE: Original Kazzak Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17182; -- Sulfuras, Hand of Ragnaros | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17193; -- Sulfuron Hammer | NOTE: 1.4 Molten Core loot update
