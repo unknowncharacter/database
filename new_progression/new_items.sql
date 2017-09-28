@@ -170,6 +170,7 @@ UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16578; -- Warlord's Mail He
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16579; -- General's Mail Leggings | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 16580; -- Warlord's Mail Spaulders | NOTE: "Added with PvP Honor System (NOTE: Originally patch 1.4, stats updated in 1.11
 UPDATE `item_template` SET `patch`= 8 WHERE `entry`= 17061; -- Juno's Shadow | NOTE: 1.10 Loot table update
+UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 17070; -- Fang of the Mystics | NOTE: Added in 1.3
 UPDATE `item_template` SET `patch`= 1 WHERE `entry`= 17111; -- Blazefury Medallion | NOTE: Original Kazzak Loot
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17182; -- Sulfuras, Hand of Ragnaros | NOTE: 1.4 Molten Core loot update
 UPDATE `item_template` SET `patch`= 2 WHERE `entry`= 17193; -- Sulfuron Hammer | NOTE: 1.4 Molten Core loot update
